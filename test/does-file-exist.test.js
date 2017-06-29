@@ -16,7 +16,7 @@ describe("doesFileExist", function() {
             // fs: {
             //     existsSync: existsSyncStub
             "../lib/mytools": {
-                xmlParse: existsSyncStub
+                xmlParser: existsSyncStub
             }
         });
     });
