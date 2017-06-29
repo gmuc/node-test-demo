@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "name": "sinon-demo-proxyquire",
+  "version": "1.0.0",
+  "description": "Runnable demo of using Sinon.JS with proxyquire",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Morgan Roderick",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.1.2",
+    "proxyquire": "^1.7.10",
+    "referee": "^1.2.0",
+    "sinon": "^2.0.0-pre.4"
+  }
+}
