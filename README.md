@@ -1,4 +1,6 @@
-# Sinon demo using proxyquire
+# Demo codesnippets for testing node (mocha, sinon, chaijs, ...) 
+
+## Sinon demo using proxyquire for remote and local modules
 
 This repository contains a demo of how to use [proxyquire][proxyquire] with [Sinon.JS][sinon].
 
